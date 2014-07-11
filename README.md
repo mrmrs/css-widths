@@ -28,7 +28,7 @@ or download the css on github and include in your project.
 .wi-at { width: auto; }
 .wi-i {  width: inherit; }
 
-@include break(not-small) {
+@media screen and (min-width: 48em) {
   .wi-bb-ns { width: border-box; }
   .wi-cb-ns { width: content-box; }
   .wi-mx-ns { width: max-content; }
@@ -39,7 +39,7 @@ or download the css on github and include in your project.
   .wi-i-ns {  width: inherit; }
 }
 
-@include break(medium) {
+@media screen and (min-width: 48em) and (max-width: 64em) {
   .wi-bb-m {    width: border-box; }
   .wi-cb-m {    width: content-box; }
   .wi-mx-m {    width: max-content; }
@@ -50,7 +50,7 @@ or download the css on github and include in your project.
   .wi-i-m {     width: inherit; }
 }
 
-@include break(large) {
+@media screen and (min-width: 64em)  {
   .wi-bb-l {    width: border-box; }
   .wi-cb-l {    width: content-box; }
   .wi-mx-l {    width: max-content; }
