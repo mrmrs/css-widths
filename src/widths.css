@@ -11,7 +11,7 @@
 .wi-at { width: auto; }
 .wi-i {  width: inherit; }
 
-@media screen and (min-width: 48em) {
+@media screen and (min-width: 32em) {
   .wi-bb-s { width: border-box; }
   .wi-cb-s { width: content-box; }
   .wi-mx-s { width: max-content; }
@@ -22,7 +22,7 @@
   .wi-i-s {  width: inherit; }
 }
 
-@media screen and (min-width:48em) and (max-width: 64em) {
+@media screen and (min-width:48em) {
   .wi-bb-m {    width: border-box; }
   .wi-cb-m {    width: content-box; }
   .wi-mx-m {    width: max-content; }
@@ -33,7 +33,7 @@
   .wi-i-m {     width: inherit; }
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 96em) {
   .wi-bb-l {    width: border-box; }
   .wi-cb-l {    width: content-box; }
   .wi-mx-l {    width: max-content; }
