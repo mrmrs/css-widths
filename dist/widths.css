@@ -1,133 +1,133 @@
-.wi-bb {
+.w-border-box {
   width: border-box;
 }
 
-.wi-cb {
+.w-content-box {
   width: content-box;
 }
 
-.wi-mx {
+.w-max-content {
   width: max-content;
 }
 
-.wi-mn {
+.w-min-content {
   width: min-content;
 }
 
-.wi-av {
+.w-available {
   width: available;
 }
 
-.wi-fc {
+.w-fit-content {
   width: fit-content;
 }
 
-.wi-at {
+.w-auto {
   width: auto;
 }
 
-.wi-i {
+.w-inherit {
   width: inherit;
 }
 
 @media screen and (width >= 32em) {
-  .wi-bb-s {
+  .w-border-box-s {
     width: border-box;
   }
 
-  .wi-cb-s {
+  .w-content-box-s {
     width: content-box;
   }
 
-  .wi-mx-s {
+  .w-max-content-s {
     width: max-content;
   }
 
-  .wi-mn-s {
+  .w-min-content-s {
     width: min-content;
   }
 
-  .wi-av-s {
+  .w-available-s {
     width: available;
   }
 
-  .wi-fc-s {
+  .w-fit-content-s {
     width: fit-content;
   }
 
-  .wi-at-s {
+  .w-auto-s {
     width: auto;
   }
 
-  .wi-i-s {
+  .w-inherit-s {
     width: inherit;
   }
 }
 
 @media screen and (width >= 48em) {
-  .wi-bb-m {
+  .w-border-box-m {
     width: border-box;
   }
 
-  .wi-cb-m {
+  .w-content-box-m {
     width: content-box;
   }
 
-  .wi-mx-m {
+  .w-max-content-m {
     width: max-content;
   }
 
-  .wi-mn-m {
+  .w-min-content-m {
     width: min-content;
   }
 
-  .wi-av-m {
+  .w-available-m {
     width: available;
   }
 
-  .wi-fc-m {
+  .w-fit-content-m {
     width: fit-content;
   }
 
-  .wi-at-m {
+  .w-auto-m {
     width: auto;
   }
 
-  .wi-i-m {
+  .w-inherit-m {
     width: inherit;
   }
 }
 
 @media screen and (width >= 96em) {
-  .wi-bb-l {
+  .w-border-box-l {
     width: border-box;
   }
 
-  .wi-cb-l {
+  .w-content-box-l {
     width: content-box;
   }
 
-  .wi-mx-l {
+  .w-max-content-l {
     width: max-content;
   }
 
-  .wi-mn-l {
+  .w-min-content-l {
     width: min-content;
   }
 
-  .wi-av-l {
+  .w-available-l {
     width: available;
   }
 
-  .wi-fc-l {
+  .w-fit-content-l {
     width: fit-content;
   }
 
-  .wi-at-l {
+  .w-auto-l {
     width: auto;
   }
 
-  .wi-i-l {
+  .w-inherit-l {
     width: inherit;
   }
 }
