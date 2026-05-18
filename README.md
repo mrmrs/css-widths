@@ -6,8 +6,8 @@ Functional CSS for widths
 
 | File | Size |
 |------|------|
-| `dist/widths.css` | 1537 bytes |
-| `dist/widths.min.css` | 1091 bytes (231 Gzipped) |
+| `dist/widths.css` | 1333 bytes |
+| `dist/widths.min.css` | 887 bytes (220 Gzipped) |
 
 ## Install
 
@@ -39,38 +39,38 @@ npm install css-widths
 
 | Class   | Value                    |
 |---------|--------------------------|
-| `.w-border-box` | `width: border-box;` |
-| `.w-content-box` | `width: content-box;` |
-| `.w-max-content` | `width: max-content;` |
-| `.w-min-content` | `width: min-content;` |
-| `.w-available` | `width: available;` |
-| `.w-fit-content` | `width: fit-content;` |
-| `.w-auto` | `width: auto;` |
-| `.w-inherit` | `width: inherit;` |
-| `.w-border-box-s` | `width: border-box;` |
-| `.w-content-box-s` | `width: content-box;` |
-| `.w-max-content-s` | `width: max-content;` |
-| `.w-min-content-s` | `width: min-content;` |
-| `.w-available-s` | `width: available;` |
-| `.w-fit-content-s` | `width: fit-content;` |
-| `.w-auto-s` | `width: auto;` |
-| `.w-inherit-s` | `width: inherit;` |
-| `.w-border-box-m` | `width: border-box;` |
-| `.w-content-box-m` | `width: content-box;` |
-| `.w-max-content-m` | `width: max-content;` |
-| `.w-min-content-m` | `width: min-content;` |
-| `.w-available-m` | `width: available;` |
-| `.w-fit-content-m` | `width: fit-content;` |
-| `.w-auto-m` | `width: auto;` |
-| `.w-inherit-m` | `width: inherit;` |
-| `.w-border-box-l` | `width: border-box;` |
-| `.w-content-box-l` | `width: content-box;` |
-| `.w-max-content-l` | `width: max-content;` |
-| `.w-min-content-l` | `width: min-content;` |
-| `.w-available-l` | `width: available;` |
-| `.w-fit-content-l` | `width: fit-content;` |
-| `.w-auto-l` | `width: auto;` |
-| `.w-inherit-l` | `width: inherit;` |
+| `.wi-bb` | `width: border-box;` |
+| `.wi-cb` | `width: content-box;` |
+| `.wi-mx` | `width: max-content;` |
+| `.wi-mn` | `width: min-content;` |
+| `.wi-av` | `width: available;` |
+| `.wi-fc` | `width: fit-content;` |
+| `.wi-at` | `width: auto;` |
+| `.wi-i` | `width: inherit;` |
+| `.wi-bb-s` | `width: border-box;` |
+| `.wi-cb-s` | `width: content-box;` |
+| `.wi-mx-s` | `width: max-content;` |
+| `.wi-mn-s` | `width: min-content;` |
+| `.wi-av-s` | `width: available;` |
+| `.wi-fc-s` | `width: fit-content;` |
+| `.wi-at-s` | `width: auto;` |
+| `.wi-i-s` | `width: inherit;` |
+| `.wi-bb-m` | `width: border-box;` |
+| `.wi-cb-m` | `width: content-box;` |
+| `.wi-mx-m` | `width: max-content;` |
+| `.wi-mn-m` | `width: min-content;` |
+| `.wi-av-m` | `width: available;` |
+| `.wi-fc-m` | `width: fit-content;` |
+| `.wi-at-m` | `width: auto;` |
+| `.wi-i-m` | `width: inherit;` |
+| `.wi-bb-l` | `width: border-box;` |
+| `.wi-cb-l` | `width: content-box;` |
+| `.wi-mx-l` | `width: max-content;` |
+| `.wi-mn-l` | `width: min-content;` |
+| `.wi-av-l` | `width: available;` |
+| `.wi-fc-l` | `width: fit-content;` |
+| `.wi-at-l` | `width: auto;` |
+| `.wi-i-l` | `width: inherit;` |
 
 ### Responsive
 
@@ -82,7 +82,7 @@ Responsive variants are available for each class with the following suffixes:
 | `-m`   | `min-width: 48em`        |
 | `-l`   | `min-width: 96em`        |
 
-Example: `.w-border-box-m` applies the property at the medium breakpoint and above.
+Example: `.wi-bb-m` applies the property at the medium breakpoint and above.
 
 ## Building
 

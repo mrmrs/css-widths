@@ -1,133 +1,133 @@
-.w-border-box {
+.wi-bb {
   width: border-box;
 }
 
-.w-content-box {
+.wi-cb {
   width: content-box;
 }
 
-.w-max-content {
+.wi-mx {
   width: max-content;
 }
 
-.w-min-content {
+.wi-mn {
   width: min-content;
 }
 
-.w-available {
+.wi-av {
   width: available;
 }
 
-.w-fit-content {
+.wi-fc {
   width: fit-content;
 }
 
-.w-auto {
+.wi-at {
   width: auto;
 }
 
-.w-inherit {
+.wi-i {
   width: inherit;
 }
 
 @media screen and (width >= 32em) {
-  .w-border-box-s {
+  .wi-bb-s {
     width: border-box;
   }
 
-  .w-content-box-s {
+  .wi-cb-s {
     width: content-box;
   }
 
-  .w-max-content-s {
+  .wi-mx-s {
     width: max-content;
   }
 
-  .w-min-content-s {
+  .wi-mn-s {
     width: min-content;
   }
 
-  .w-available-s {
+  .wi-av-s {
     width: available;
   }
 
-  .w-fit-content-s {
+  .wi-fc-s {
     width: fit-content;
   }
 
-  .w-auto-s {
+  .wi-at-s {
     width: auto;
   }
 
-  .w-inherit-s {
+  .wi-i-s {
     width: inherit;
   }
 }
 
 @media screen and (width >= 48em) {
-  .w-border-box-m {
+  .wi-bb-m {
     width: border-box;
   }
 
-  .w-content-box-m {
+  .wi-cb-m {
     width: content-box;
   }
 
-  .w-max-content-m {
+  .wi-mx-m {
     width: max-content;
   }
 
-  .w-min-content-m {
+  .wi-mn-m {
     width: min-content;
   }
 
-  .w-available-m {
+  .wi-av-m {
     width: available;
   }
 
-  .w-fit-content-m {
+  .wi-fc-m {
     width: fit-content;
   }
 
-  .w-auto-m {
+  .wi-at-m {
     width: auto;
   }
 
-  .w-inherit-m {
+  .wi-i-m {
     width: inherit;
   }
 }
 
 @media screen and (width >= 96em) {
-  .w-border-box-l {
+  .wi-bb-l {
     width: border-box;
   }
 
-  .w-content-box-l {
+  .wi-cb-l {
     width: content-box;
   }
 
-  .w-max-content-l {
+  .wi-mx-l {
     width: max-content;
   }
 
-  .w-min-content-l {
+  .wi-mn-l {
     width: min-content;
   }
 
-  .w-available-l {
+  .wi-av-l {
     width: available;
   }
 
-  .w-fit-content-l {
+  .wi-fc-l {
     width: fit-content;
   }
 
-  .w-auto-l {
+  .wi-at-l {
     width: auto;
   }
 
-  .w-inherit-l {
+  .wi-i-l {
     width: inherit;
   }
 }
